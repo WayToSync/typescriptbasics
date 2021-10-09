@@ -6,8 +6,6 @@ We will also see how to use the **Typescript compiler** , setup the **configurat
 
 This project was made with the version **4.4.3** of Typescript.
 
-The **index.ts** file contain all the basics syntax of Typescript.
-
 ## Install Typescript
 
 Description | Cmd
