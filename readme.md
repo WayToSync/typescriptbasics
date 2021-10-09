@@ -2,7 +2,7 @@
 
 The goal of this project is to understand the **basics of Typescript** with some examples.
 
-We will also see how to use the **Typescript compiler** , setup the **configuration file** and the **directory structure**.
+We will also see how to use the **Typescript compiler** , setup the **configuration file**.
 
 This project was made with the version **4.4.3** of Typescript.
 
